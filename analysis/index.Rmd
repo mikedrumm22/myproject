@@ -9,3 +9,4 @@ editor_options:
 ---
 
 Welcome to my research website.
+I love doing research on corals
